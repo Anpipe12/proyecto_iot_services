@@ -1,5 +1,7 @@
 .ENV
 .env
-,log
+.log
 app
 mongodata
+
+
